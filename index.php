@@ -1,2 +1,2 @@
 test
-Daniel DanZ Armatys
+Daniel
